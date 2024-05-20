@@ -1,1 +1,1 @@
-# Sentiment_Analysis_NLP
+In this project we capture and analyse the reviews given by customers to different restaurants. We have used Natural Language Processing(NLP) here. System will capture restaurant name using voice capture and will perform web scraping to collect reviews about the restaurant; and then perform sentiment analysis using NLP.
